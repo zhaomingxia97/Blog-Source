@@ -1,5 +1,5 @@
 title = "温泉居"
-baseURL = "https://zhaomingxia.com"
+baseURL = "http://zhaomingxia.com"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
@@ -82,9 +82,9 @@ DefaultContentLanguage = "zh-cn"
     copyrightBy = "By 温泉居士"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = ""
-    copyrightUrl = "https://zhaomingxia.com"
+    copyrightUrl = "http://zhaomingxia.com"
     creditsText = "温泉居"
-    creditsUrl = "https://zhaomingxia.com"
+    creditsUrl = "http://zhaomingxia.com"
 
 
 # customize your available languages for your multi-langual site
