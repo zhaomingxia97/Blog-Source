@@ -1,5 +1,5 @@
 title = "温泉居"
-baseURL = "http://zhaomingxia.com"
+baseURL = "https://zhaomingxia.com"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
@@ -95,9 +95,9 @@ DefaultContentLanguage = "zh-cn"
 
 # don't change anything below
 [taxonomies]
-  author   = "作者"
-  tag      = "标签"
-  category = "分类"
+  author   = "author"
+  tag      = "tags"
+  category = "categories"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
